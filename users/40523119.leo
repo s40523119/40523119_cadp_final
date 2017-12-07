@@ -29,7 +29,7 @@
 <v t="leo.20171123133741.1"><vh>@edit readme.md</vh></v>
 </v>
 </v>
-<v t="leo.20171123133840.1" a="E"><vh>@path mech_design</vh>
+<v t="leo.20171123133840.1"><vh>@path mech_design</vh>
 <v t="leo.20171123133848.1" a="E"><vh>@path cad_designs</vh>
 <v t="leo.20171123133901.1"><vh>@edit readme.md</vh></v>
 </v>
