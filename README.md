@@ -18,3 +18,7 @@
 *整體系統的尺寸必須能夠放入郵局 Box2 紙箱中(規格: 23×18×19(cm)*
 
 - [Stairs marble machine](https://youtu.be/MnykWWEsa8E)
+
+---
+
+12/7: 21號-混 20號-普通 28號-睡覺 29號-認真 30號-認真
